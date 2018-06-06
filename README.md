@@ -2,13 +2,13 @@
 
 Projeto de computação gráfica utilizado na aula de Computação Gráfica.
 
-##Pré-requisito
+## Pré-requisito
 
 Necessário a instalação dos puglins do NetBeans.
 
-*Os Plugins estão dentro da pasta **Plugins Necessários** *
+*Os Plugins estão dentro da pasta "**Plugins Necessários**"*
 
-##Autor
+## Autor
 
 * **Matheus de Souza** - Projeto de Faculdade - [GitLab](https://gitlab.com/matheus.souza/)
 
