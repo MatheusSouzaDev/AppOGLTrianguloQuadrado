@@ -10,7 +10,7 @@ Necessário a instalação dos puglins do NetBeans.
 
 ## Autor
 
-* **Matheus de Souza** - Projeto de Faculdade - [GitLab](https://gitlab.com/matheus.souza/)
+* **Matheus de Souza** - Projeto de Faculdade
 
 ## License
 
